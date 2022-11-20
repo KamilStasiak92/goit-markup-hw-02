@@ -32,6 +32,7 @@ list-style-type: none;
 }
 .link {
 text-decoration: none;
+color: var(--almost-black);
 }
 .link:hover,
 .link:focus {
